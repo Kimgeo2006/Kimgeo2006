@@ -2,9 +2,7 @@
 
 - 👋 Olá,eu sou a @Kimgeo2006
 - 👀 Eu estou interessada em programar novos jogos
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Eu estou aprendendo a programar recentemente novas linguagens de Javascript e Scratch
 
 <!---
 Kimgeo2006/Kimgeo2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
